@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.idea/
+.vscode/
+*.pyc
+
+report.html
+
+screenshots/*.png
